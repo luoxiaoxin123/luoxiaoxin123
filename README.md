@@ -1,1 +1,1 @@
-A student. Build small things for fun.
+A student. Build something for fun.
